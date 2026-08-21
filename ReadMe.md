@@ -31,14 +31,6 @@ I build practical products across AI, web development, data systems, and emergin
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white)
 
-## GitHub Activity
-
-The live cards below are optional enhancements. The links and project list above remain visible if an image service is blocked.
-
-- [View all repositories](https://github.com/chaitanyakelkar27?tab=repositories)
-- [View contribution activity](https://github.com/chaitanyakelkar27)
-- [View contribution calendar](https://github.com/chaitanyakelkar27?tab=overview)
-
 ### Current Focus
 
 - Exploring the data analyst field and learning Excel, Power BI, and data visualisation.
