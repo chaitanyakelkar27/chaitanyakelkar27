@@ -37,11 +37,11 @@ The live cards below are optional enhancements. The links and project list above
 - [View contribution activity](https://github.com/chaitanyakelkar27)
 - [View contribution calendar](https://github.com/chaitanyakelkar27?tab=overview)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyakelkar27&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+### Current Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakelkar27&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyakelkar27&theme=dark&hide_border=true)
+- Building AI-powered products for healthcare, agriculture, marine research, and support automation.
+- Developing full-stack applications with TypeScript, React, Svelte, Python, and modern databases.
+- Participating in hackathons and improving problem-solving through algorithmic projects.
 
 ---
 
