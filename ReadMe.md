@@ -1,8 +1,8 @@
 # Chaitanya Kelkar
 
-Final-year B.E. Information Technology student and aspiring full-stack developer.
+Final-year B.E. Information Technology student and aspiring technology professional.
 
-I build practical products across AI, web development, data systems, and emerging technology. My current focus is shipping complete, useful applications and strengthening my skills in full-stack architecture. I enjoy hackathons, project-based learning, and collaborating on internship opportunities.
+I build practical products across AI, web development, data systems, and emerging technology. I am currently learning Excel, Power BI, data analysis, data visualisation, and related concepts while strengthening my technical foundation. I enjoy hackathons, project-based learning, and collaborating on internship opportunities.
 
 ## Connect
 
@@ -29,6 +29,8 @@ I build practical products across AI, web development, data systems, and emergin
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white)
+
 ## GitHub Activity
 
 The live cards below are optional enhancements. The links and project list above remain visible if an image service is blocked.
@@ -39,9 +41,9 @@ The live cards below are optional enhancements. The links and project list above
 
 ### Current Focus
 
-- Building AI-powered products for healthcare, agriculture, marine research, and support automation.
-- Developing full-stack applications with TypeScript, React, Svelte, Python, and modern databases.
-- Participating in hackathons and improving problem-solving through algorithmic projects.
+- Exploring the data analyst field and learning Excel, Power BI, and data visualisation.
+- Building foundations in data cleaning, analysis, dashboards, and related concepts.
+- Continuing to build practical AI and full-stack projects through hackathons and project-based learning.
 
 ---
 
